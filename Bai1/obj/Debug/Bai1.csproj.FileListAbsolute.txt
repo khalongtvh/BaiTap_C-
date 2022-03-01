@@ -1,0 +1,6 @@
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai1\Bai1\obj\Debug\Bai1.pdb
