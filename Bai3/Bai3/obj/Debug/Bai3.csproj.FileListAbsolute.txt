@@ -1,0 +1,5 @@
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai3\Bai3\bin\Debug\Bai3.exe.config
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai3\Bai3\bin\Debug\Bai3.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai3\Bai3\bin\Debug\Bai3.pdb
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai3\Bai3\obj\Debug\Bai3.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai3\Bai3\obj\Debug\Bai3.pdb

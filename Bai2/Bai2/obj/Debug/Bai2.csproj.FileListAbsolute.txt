@@ -1,0 +1,5 @@
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai2\Bai2\bin\Debug\Bai2.exe.config
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai2\Bai2\bin\Debug\Bai2.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai2\Bai2\bin\Debug\Bai2.pdb
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai2\Bai2\obj\Debug\Bai2.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai2\Bai2\obj\Debug\Bai2.pdb

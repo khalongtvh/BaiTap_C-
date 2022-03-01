@@ -1,0 +1,5 @@
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai4\Bai4\bin\Debug\Bai4.exe.config
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai4\Bai4\bin\Debug\Bai4.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai4\Bai4\bin\Debug\Bai4.pdb
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai4\Bai4\obj\Debug\Bai4.exe
+D:\221\C#\LY_THUYET\PROJECT\BÀI TẬP CƠ BẢN 1\Bai4\Bai4\obj\Debug\Bai4.pdb
